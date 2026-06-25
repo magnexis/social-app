@@ -1,5 +1,7 @@
 # Social Media App (WIP)
 
+[![npm](https://img.shields.io/npm/v/server-2)](https://www.npmjs.com/package/server-2)
+
 
 
 This is a work-in-progress social media backend built with Node.js, Express, and Supabase (PostgreSQL).
